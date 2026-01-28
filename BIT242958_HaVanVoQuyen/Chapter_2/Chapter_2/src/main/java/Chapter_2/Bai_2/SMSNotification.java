@@ -7,7 +7,7 @@
  *
  * @author Asus
  */
-package Chapter_2;
+package Chapter_2.Bai_2;
 
 public class SMSNotification implements Notification {
 
