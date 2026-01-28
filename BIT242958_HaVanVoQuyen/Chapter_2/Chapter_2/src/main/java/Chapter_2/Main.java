@@ -3,7 +3,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
 package Chapter_2;
-import Chapter_2.Bai_2.Factory;
+import Chapter_2.Bai_5.DIDemo;
 import java.util.Scanner;
 
 public class Main {
