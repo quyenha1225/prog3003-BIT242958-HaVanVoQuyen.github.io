@@ -26,16 +26,20 @@ public class Bai_3{
                      // sap xep tang dan
                      for(int i = 0 ; i < oddArr.length-1;i++){
                          for(int j = i+1 ; j < oddArr.length;j++){
-                             if(oddArr[j]>oddArr[j+1]){
-                                 int tp = oddArr[j];
-                                 oddArr[j] =oddArr[j+1];
-                                 oddArr[j+1] = tp;
+                                if (oddArr[i] > oddArr[j]) {
+                                 int t = oddArr[i];
+                                 oddArr[i] =oddArr[j];
+                                 oddArr[j] = t;
                              
                              }
                          }
                      }
                      return oddArr;
-                   });
-        
+                   })
+                .thenApply(arr->"Kết quả là : "+Arrays.toString(arr))
+                .thenAccept(result->System.out.print(result))
+                .thenRun(()->System.out.println("Done"))
+                .join();
+      
     }
 }
