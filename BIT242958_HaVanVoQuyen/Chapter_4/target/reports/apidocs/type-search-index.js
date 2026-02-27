@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html","k":"18"},{"p":"Bai_5","l":"Bai_5"},{"p":"Bai_6","l":"Bai_6"},{"p":"Bai_1","l":"Chapter_4"},{"p":"Bai_2","l":"Main"},{"p":"Bai_3","l":"Main"},{"p":"Bai_4","l":"Main"},{"p":"Bai_1","l":"MathOperation","k":"10"}];updateSearchResults();

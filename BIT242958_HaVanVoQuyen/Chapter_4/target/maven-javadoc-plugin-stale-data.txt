@@ -1,0 +1,48 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+--no-fonts
+-encoding
+'UTF-8'
+-protected
+--release
+25
+-sourcepath
+'D:/Java_Cv/JavaNetBean/BIT242958_HaVanVoQuyen/Chapter_4/Chapter_4/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2026. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'D:/Java_Cv/JavaNetBean/BIT242958_HaVanVoQuyen/Chapter_4/Chapter_4/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Chapter_4 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'Chapter_4 1.0-SNAPSHOT API'
+Bai_1
+Bai_2
+Bai_3
+Bai_4
+Bai_5
+Bai_6
+D:\Java_Cv\JavaNetBean\BIT242958_HaVanVoQuyen\Chapter_4\Chapter_4\src\main\java = 1772161895270
+D:\Java_Cv\JavaNetBean\BIT242958_HaVanVoQuyen\Chapter_4\Chapter_4\target\reports\apidocs\allclasses-index.html = 1772162884726
+D:\Java_Cv\JavaNetBean\BIT242958_HaVanVoQuyen\Chapter_4\Chapter_4\target\reports\apidocs\allpackages-index.html = 1772162884738
+D:\Java_Cv\JavaNetBean\BIT242958_HaVanVoQuyen\Chapter_4\Chapter_4\target\reports\apidocs\element-list = 1772162884318
+D:\Java_Cv\JavaNetBean\BIT242958_HaVanVoQuyen\Chapter_4\Chapter_4\target\reports\apidocs\help-doc.html = 1772162885137
+D:\Java_Cv\JavaNetBean\BIT242958_HaVanVoQuyen\Chapter_4\Chapter_4\target\reports\apidocs\index-all.html = 1772162885121
+D:\Java_Cv\JavaNetBean\BIT242958_HaVanVoQuyen\Chapter_4\Chapter_4\target\reports\apidocs\index.html = 1772162884679
+D:\Java_Cv\JavaNetBean\BIT242958_HaVanVoQuyen\Chapter_4\Chapter_4\target\reports\apidocs\member-search-index.js = 1772162884750
+D:\Java_Cv\JavaNetBean\BIT242958_HaVanVoQuyen\Chapter_4\Chapter_4\target\reports\apidocs\module-search-index.js = 1772162884740
+D:\Java_Cv\JavaNetBean\BIT242958_HaVanVoQuyen\Chapter_4\Chapter_4\target\reports\apidocs\overview-summary.html = 1772162885130
+D:\Java_Cv\JavaNetBean\BIT242958_HaVanVoQuyen\Chapter_4\Chapter_4\target\reports\apidocs\overview-tree.html = 1772162884671
+D:\Java_Cv\JavaNetBean\BIT242958_HaVanVoQuyen\Chapter_4\Chapter_4\target\reports\apidocs\package-search-index.js = 1772162884742
+D:\Java_Cv\JavaNetBean\BIT242958_HaVanVoQuyen\Chapter_4\Chapter_4\target\reports\apidocs\search.html = 1772162885126
+D:\Java_Cv\JavaNetBean\BIT242958_HaVanVoQuyen\Chapter_4\Chapter_4\target\reports\apidocs\tag-search-index.js = 1772162884753
+D:\Java_Cv\JavaNetBean\BIT242958_HaVanVoQuyen\Chapter_4\Chapter_4\target\reports\apidocs\type-search-index.js = 1772162884745
